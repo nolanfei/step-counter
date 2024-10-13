@@ -1,5 +1,5 @@
 {
-    "name": "Step counter",
+    "name": "multi-digit number exhibitor",
     "description": "",
     "dependencies": {
         "core": "*",
